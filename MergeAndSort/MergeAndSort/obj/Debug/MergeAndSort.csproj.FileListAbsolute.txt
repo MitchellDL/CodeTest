@@ -1,0 +1,10 @@
+c:\users\darlam\documents\visual studio 2012\Projects\MergeAndSort\MergeAndSort\bin\Debug\MergeAndSort.exe.config
+c:\users\darlam\documents\visual studio 2012\Projects\MergeAndSort\MergeAndSort\bin\Debug\MergeAndSort.exe
+c:\users\darlam\documents\visual studio 2012\Projects\MergeAndSort\MergeAndSort\bin\Debug\MergeAndSort.pdb
+c:\users\darlam\documents\visual studio 2012\Projects\MergeAndSort\MergeAndSort\obj\Debug\MergeAndSort.csprojResolveAssemblyReference.cache
+c:\users\darlam\documents\visual studio 2012\Projects\MergeAndSort\MergeAndSort\obj\Debug\MergeAndSort.exe
+c:\users\darlam\documents\visual studio 2012\Projects\MergeAndSort\MergeAndSort\obj\Debug\MergeAndSort.pdb
+C:\Users\darlam\Documents\Visual Studio 2012\Projects\MergeAndSort\MergeAndSort\bin\Debug\MergeAndSort.exe.manifest
+C:\Users\darlam\Documents\Visual Studio 2012\Projects\MergeAndSort\MergeAndSort\bin\Debug\MergeAndSort.application
+C:\Users\darlam\Documents\Visual Studio 2012\Projects\MergeAndSort\MergeAndSort\obj\Debug\MergeAndSort.exe.manifest
+C:\Users\darlam\Documents\Visual Studio 2012\Projects\MergeAndSort\MergeAndSort\obj\Debug\MergeAndSort.application
